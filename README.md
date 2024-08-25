@@ -1,6 +1,6 @@
 ### Hi there 👋
 - 🔭 I’m currently working on: anything at the moment!
-- 🌱 I’m currently learning ruby on rails
+- 🌱 I’m currently learning well reviewing full stack dev
 - 👯 I’m looking to collaborate on any project! I love meeting new people!
 - 🤔 I’m looking for help with: Landing a developer job.
 - 💬 Ask me about Anything related to tech!
