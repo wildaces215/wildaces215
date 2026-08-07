@@ -1,8 +1,3 @@
-### Hi there 👋
-- 🔭 I’m currently working on: learning new things and reviewing my old skills as well!
-- 🌱 I’m currently learning AI and exploring new positioning on AI
-- 👯 I’m looking to collaborate on any project! I love meeting new people!
-- 💬 Ask me about Anything related to tech!
-- 📫 How to reach me: feel free to reachme at craigalb215@gmail.com!
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: I can surf!
+### Hi there I'm Craig 👋 techie currently in grad school getting my masters in AI!
+- 🔭 I’m currently working on: my personal website, my own agentic harness.
+- 👯 I’m looking open to new opportunities so feel free to reach out!
